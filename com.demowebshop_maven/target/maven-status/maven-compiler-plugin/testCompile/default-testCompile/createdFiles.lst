@@ -1,0 +1,3 @@
+com\demowebshop\testscripts\RegisterTest.class
+com\demowebshop\testscripts\LoginTest.class
+com\demowebshop\testscripts\AddToCartTest.class

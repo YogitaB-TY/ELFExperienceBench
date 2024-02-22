@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User not logged in]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-21T15:55:07 IST" name="Default suite" finished-at="2024-02-21T15:55:34 IST" duration-ms="26292">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T15:55:07 IST" name="Default test" finished-at="2024-02-21T15:55:34 IST" duration-ms="26292">
+      <class name="com.demowebshop.testscripts.AddToCartTest">
+        <test-method is-config="true" signature="reportConfig()[pri:0, instance:com.demowebshop.testscripts.AddToCartTest@74ea2410]" started-at="2024-02-21T15:55:07 IST" name="reportConfig" finished-at="2024-02-21T15:55:07 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfig -->
+        <test-method is-config="true" signature="browserSetup(java.lang.reflect.Method)[pri:0, instance:com.demowebshop.testscripts.AddToCartTest@74ea2410]" started-at="2024-02-21T15:55:08 IST" name="browserSetup" finished-at="2024-02-21T15:55:12 IST" duration-ms="4234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demowebshop.testscripts.AddToCartTest.TC_ShoppingCart_001(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="TC_ShoppingCart_001(java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.AddToCartTest@74ea2410]" started-at="2024-02-21T15:55:12 IST" name="TC_ShoppingCart_001" data-provider="addToCart" finished-at="2024-02-21T15:55:33 IST" duration-ms="21164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[helloQATest@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Passwor@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User not logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ShoppingCart_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.AddToCartTest@74ea2410]" started-at="2024-02-21T15:55:33 IST" name="browserTearDown" finished-at="2024-02-21T15:55:34 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:com.demowebshop.testscripts.AddToCartTest@74ea2410]" started-at="2024-02-21T15:55:34 IST" name="reportFlush" finished-at="2024-02-21T15:55:34 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- com.demowebshop.testscripts.AddToCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

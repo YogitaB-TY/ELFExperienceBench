@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User not registered]]>
+    </line>
+    <line>
+      <![CDATA[User not registered]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-21T14:57:40 IST" name="Suite" finished-at="2024-02-21T14:58:54 IST" duration-ms="74084">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T14:57:40 IST" name="Test" finished-at="2024-02-21T14:58:54 IST" duration-ms="74084">
+      <class name="com.demowebshop.testscripts.LoginTest">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:32 IST" name="browserSetup" finished-at="2024-02-21T14:58:36 IST" duration-ms="3958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="tC_Login_001(java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:36 IST" name="tC_Login_001" data-provider="loginData" finished-at="2024-02-21T14:58:37 IST" duration-ms="1763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[helloQATest@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_Login_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:37 IST" name="browserTearDown" finished-at="2024-02-21T14:58:38 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:38 IST" name="browserSetup" finished-at="2024-02-21T14:58:41 IST" duration-ms="3680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="tC_Login_001(java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:41 IST" name="tC_Login_001" data-provider="loginData" finished-at="2024-02-21T14:58:43 IST" duration-ms="1377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa_testcred@testyantra.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_Login_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:43 IST" name="browserTearDown" finished-at="2024-02-21T14:58:43 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:43 IST" name="browserSetup" finished-at="2024-02-21T14:58:47 IST" duration-ms="3894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="tC_Login_001(java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:47 IST" name="tC_Login_001" data-provider="loginData" finished-at="2024-02-21T14:58:49 IST" duration-ms="1442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa_testuser123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_Login_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:49 IST" name="browserTearDown" finished-at="2024-02-21T14:58:49 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:49 IST" name="browserSetup" finished-at="2024-02-21T14:58:52 IST" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="tC_Login_001(java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:52 IST" name="tC_Login_001" data-provider="loginData" finished-at="2024-02-21T14:58:54 IST" duration-ms="1518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yogbelavanaki@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_Login_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.LoginTest@6e20b53a]" started-at="2024-02-21T14:58:54 IST" name="browserTearDown" finished-at="2024-02-21T14:58:54 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+      </class> <!-- com.demowebshop.testscripts.LoginTest -->
+      <class name="com.demowebshop.testscripts.RegisterTest">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.demowebshop.testscripts.RegisterTest@50eac852]" started-at="2024-02-21T14:57:40 IST" name="browserSetup" finished-at="2024-02-21T14:57:44 IST" duration-ms="3982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="TC_Register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.RegisterTest@50eac852]" started-at="2024-02-21T14:57:44 IST" name="TC_Register_001" data-provider="registerData" finished-at="2024-02-21T14:58:06 IST" duration-ms="21434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Beckham]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[david002@manchesterunited.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User not registered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_Register_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.RegisterTest@50eac852]" started-at="2024-02-21T14:58:06 IST" name="browserTearDown" finished-at="2024-02-21T14:58:06 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.demowebshop.testscripts.RegisterTest@50eac852]" started-at="2024-02-21T14:58:06 IST" name="browserSetup" finished-at="2024-02-21T14:58:10 IST" duration-ms="3523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="TC_Register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demowebshop.testscripts.RegisterTest@50eac852]" started-at="2024-02-21T14:58:10 IST" name="TC_Register_001" data-provider="registerData" finished-at="2024-02-21T14:58:31 IST" duration-ms="21582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Victoria]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Beckham]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[victoriabeckham002@spicegirls.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User not registered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_Register_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.demowebshop.testscripts.RegisterTest@50eac852]" started-at="2024-02-21T14:58:31 IST" name="browserTearDown" finished-at="2024-02-21T14:58:32 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+      </class> <!-- com.demowebshop.testscripts.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
