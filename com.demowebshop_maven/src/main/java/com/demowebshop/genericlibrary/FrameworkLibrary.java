@@ -30,7 +30,7 @@ public class FrameworkLibrary implements FrameworkConstants{
 	public ExtentSparkReporter sparkReporter;
 	public ExtentReports reports;
 	public ExtentTest test;
-	public String testMethodName;
+	
 	
 	public void selectClass(WebElement dropDown, String option) {
 		Select select =new Select(dropDown);

@@ -1,11 +1,11 @@
+com\demowebshop\pomRepo\HomePage.class
+com\demowebshop\genericlibrary\Base_Test.class
+com\demowebshop\genericlibrary\ExcelRead.class
 com\demowebshop\pomRepo\BooksPage.class
 com\demowebshop\pomRepo\LoginPage.class
 com\demowebshop\pomRepo\Base_Page.class
-com\demowebshop\pomRepo\HomePage.class
 com\demowebshop\pomRepo\ShoppingCartPage.class
-com\demowebshop\genericlibrary\Base_Test.class
 com\demowebshop\genericlibrary\FrameworkLibrary.class
-com\demowebshop\genericlibrary\ExcelRead.class
 com\demowebshop\pomRepo\RegisterPage.class
 com\demowebshop\pomRepo\WelcomePage.class
 com\demowebshop\genericlibrary\FrameworkConstants.class

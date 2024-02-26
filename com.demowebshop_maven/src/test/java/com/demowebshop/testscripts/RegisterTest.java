@@ -42,6 +42,7 @@ public class RegisterTest extends Base_Test {
 			e.printStackTrace();
 			Reporter.log("User not registered");
 		}
+		homePage.clickLogoutLink();
 	}
 
 	@DataProvider(name = "registerData")

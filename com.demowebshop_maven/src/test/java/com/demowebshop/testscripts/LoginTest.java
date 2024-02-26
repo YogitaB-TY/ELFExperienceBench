@@ -30,6 +30,7 @@ public class LoginTest extends Base_Test {
 			e.printStackTrace();
 			Reporter.log("User not logged in");
 		}
+		homePage.clickLogoutLink();
 	}
 	
 	@DataProvider(name = "loginData")

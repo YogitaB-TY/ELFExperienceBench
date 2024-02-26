@@ -48,6 +48,7 @@ public class AddToCartTest extends Base_Test{
 			test.fail(MediaEntityBuilder.createScreenCaptureFromPath(takeScreenshotOfPage(driver)).build());
 			Reporter.log("User not logged in");
 		}
+		homePage.clickLogoutLink();
 	}
 	
 	@DataProvider(name = "addToCart")
